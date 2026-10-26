@@ -11,8 +11,8 @@ Project status: Development in progress.
 | Member | Student ID | GitHub username | Feature |
 |--------|------------|-----------------|---------|
 | Hamza Ifleh | 163348 | [HamzaIfleh](https://github.com/HamzaIfleh) | Add and list tasks + repository setup |
-| Iman El Isamy | 157195 | [heretosee134](https://github.com/heretosee134) | Complete / uncomplete tasks + GitHub Actions |
-| Kenza Dassaine | 168566 | [elisamyiman8-hub](https://github.com/elisamyiman8-hub) | Remove tasks + GitHub Pages website |
+| Kenza Dassaine | 168566 | [elisamyiman8-hub](https://github.com/elisamyiman8-hub) | Complete / uncomplete tasks + GitHub Actions |
+| Iman El Isamy | 157195 | [heretosee134](https://github.com/heretosee134) | Remove tasks + GitHub Pages website |
 
 ## Run
 
