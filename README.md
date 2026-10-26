@@ -6,11 +6,13 @@ Project status: Development in progress.
 
 ## Team
 
-| Member | GitHub username | Feature |
-|--------|-----------------|---------|
-| Member A | @username | Task management (add / complete / delete) |
-| Member B | @username | Filtering & search |
-| Member C | @username | Progress statistics |
+**Theme:** To-Do List
+
+| Member | Student ID | GitHub username | Feature |
+|--------|------------|-----------------|---------|
+| Hamza Ifleh | 163348 | [HamzaIfleh](https://github.com/HamzaIfleh) | Add and list tasks + repository setup |
+| Iman El Isamy | 157195 | IMAN_USERNAME | Complete / uncomplete tasks + GitHub Actions |
+| Kenza Dassaine | 168566 | KENZA_USERNAME | Remove tasks + GitHub Pages website |
 
 ## Run
 
