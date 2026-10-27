@@ -1,3 +1,4 @@
+
 """Filtering and search features for the To-Do List."""
 
 
@@ -10,7 +11,8 @@ def search_tasks(tasks, keyword):
 
     return [
         task for task in tasks
-        if keyword in task["title"].lower()
+        if isinstance(task.get("title"), str)
+        and keyword in task["title"].lower()
     ]
 
 

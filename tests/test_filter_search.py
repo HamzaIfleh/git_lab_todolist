@@ -47,3 +47,15 @@ def test_search_and_filter_together(sample_tasks):
 def test_invalid_filter_status_raises_error(sample_tasks):
     with pytest.raises(ValueError):
         filter_tasks(sample_tasks, "unknown")
+def test_search_skips_tasks_without_string_titles():
+    tasks = [
+        {"title": "Study Python", "completed": False},
+        {"title": None, "completed": False},
+        {"completed": True},
+    ]
+
+    result = search_tasks(tasks, "python")
+
+    assert result == [
+        {"title": "Study Python", "completed": False}
+    ]
